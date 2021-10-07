@@ -1,7 +1,7 @@
 # CPrimerPlus6  
 作者: Stephen Prata  
 翻译: 姜佑  
-约定: 上传/修改/删除xx章示例/练习[filename.c]源代码  
+约定: [上传|修改|删除]xx章[示例|练习|filename.c]源代码  
   
 ## 进度记录表  
 |   日期   | 章节 |   日期   | 章节 |
