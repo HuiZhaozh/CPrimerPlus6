@@ -58,6 +58,7 @@ int main(void)
     while ((ch = getc(fa)) != EOF)
         putchar(ch);
     puts("Done displaying");
+    fclose(fa);
 
     return 0;
 }
